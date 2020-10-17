@@ -3,15 +3,9 @@
   <img src="https://github.com/nishad10/nishad10/blob/main/banner.gif" width="1920" alt="header"/>
 </div>
 
-Hello I am Nishad Aherrao, I am currently a senior at University of Texas at Arlington. I am originally from Mumbai, India. I moved to the U.S. in 2016 for my bachelors in Computer Science. I love coding and javascript, python and php are my most loved and used languages. Some of my other hobbies are video games, music, travelling and cooking. 
+## About Me
 
-## Experience
-
-### Facebook, Summer 2020
-I worked as a Security Engineering Intern at Facebook. I have since accepted a full-time offer with Facebook and will be joining them full-time from January, 2021. 
-
-### Copart, Fall 2019
-This was my first ever internship. I worked as a Front-End developer developing new modules for their website as well as worked on existing in production applications. 
+#### Hello I am Nishad Aherrao, I am currently a senior at University of Texas at Arlington. I am originally from Mumbai, India. I moved to the U.S. in 2016 for my bachelors in Computer Science. I love coding and javascript, python and php are my most loved and used languages. Some of my other hobbies are video games, music, travelling and cooking. 
 
 <hr>
 
