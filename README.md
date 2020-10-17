@@ -9,10 +9,10 @@
 
 <hr>
 
-[![Nishad's github stats](https://github-readme-stats.vercel.app/api?username=nishad10&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nishad10&layout=compact&card_width=255&langs_count=8&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=nishad10&repo=utacsec&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=nishad10&repo=searchEngine&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Nishad's github stats](https://github-readme-stats.vercel.app/api?username=nishad10&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/nishad10)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nishad10&layout=compact&card_width=255&langs_count=8&theme=tokyonight)](https://github.com/nishad10)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=nishad10&repo=utacsec&theme=tokyonight)](https://github.com/nishad10/utacsec)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=nishad10&repo=searchEngine&theme=tokyonight)](https://github.com/nishad10/searchEngine)
 
 ### Programming Languages
 
