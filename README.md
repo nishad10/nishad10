@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://github.com/nishad10/nishad10/blob/main/banner.gif" alt="header"/>
+  <img src="https://github.com/nishad10/nishad10/blob/main/banner.gif" width="1920" alt="header"/>
 </div>
 
 Hello I am Nishad Aherrao, I am currently a senior at University of Texas at Arlington. I am originally from Mumbai, India. I moved to the U.S. in 2016 for my bachelors in Computer Science. I love coding and javascript, python and php are my most loved and used languages. Some of my other hobbies are video games, music, travelling and cooking. 
